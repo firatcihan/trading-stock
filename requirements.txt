@@ -1,0 +1,6 @@
+Twilio api key  https://www.twilio.com/en-us
+Twilio account
+
+Alpha Vantage stock market api key  https://www.alphavantage.co
+
+news api key  https://newsapi.org
